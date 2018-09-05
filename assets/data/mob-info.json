@@ -1,0 +1,56 @@
+{"data":[{
+		"mobName" : "Redmi 5A(Blue,32 GB)",
+		"mobRatings" : 3.7,
+		"mobDesc" : "13 MP | 8 MP Camera",
+		"mobPrice" : 5999,
+		"mbActualPrice" : 6499,
+		"inStock" : 15,
+		"mobImage" : "././assets/img/mb1.jpeg",
+		"featured" : true,
+		"quantity" : 0
+	},
+	{
+		"mobName" : "Honor 9 Lite (4 GB)",
+		"mobRatings" : 4.5,
+		"mobDesc" : "13 MP | 8 MP Camera",
+		"mobPrice" : 14999,
+		"mbActualPrice" : 15999,
+		"inStock" : 0,
+		"mobImage" : "././assets/img/mb2.jpeg",
+		"featured" : false,
+		"quantity" : 0
+	},
+	{
+		"mobName" : "Oppo F5 (Gold, 32GB)",
+		"mobRatings" : 3.5,
+		"mobDesc" : "13 MP | 8 MP Camera",
+		"mobPrice" : 17990,
+		"mbActualPrice" : 18499,
+		"inStock" : 24,
+		"mobImage" : "././assets/img/mb3.jpeg",
+		"featured" : true,
+		"quantity" : 0
+	},
+	{
+		"mobName" : "Samsung On Nxt (16 GB)",
+		"mobRatings" : 4.7,
+		"mobDesc" : "13 MP | 8 MP Camera",
+		"mobPrice" : 8999,
+		"mbActualPrice" : 9999,
+		"inStock" : 24,
+		"mobImage" : "././assets/img/mb4.jpeg",
+		"featured" : true,
+		"quantity" : 0
+	},
+	{
+		"mobName" : "Lenovo P2 (32 GB)",
+		"mobRatings" : 4.4,
+		"mobDesc" : "13 MP | 8 MP Camera",
+		"mobPrice" : 17999,
+		"mbActualPrice" : 18999,
+		"inStock" : 17,
+		"mobImage" : "././assets/img/mb4.jpeg",
+		"featured" : true,
+		"quantity" : 0
+	}]
+}
